@@ -1,0 +1,5 @@
+{
+  "name": "FilmSim Editor",
+  "description": "A web-based image editor for applying film simulations from Leica, Hasselblad, Fujifilm, and Sigma.",
+  "requestFramePermissions": []
+}
